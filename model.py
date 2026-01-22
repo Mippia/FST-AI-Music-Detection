@@ -9,6 +9,7 @@ import numpy as np
 from pathlib import Path
 import math
 from transformers import AutoModel, AutoConfig
+import torchmetrics
 
 class CrossAttention(nn.Module):
     def __init__(self, embed_dim, num_heads):
