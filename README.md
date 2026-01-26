@@ -27,9 +27,6 @@ Keywords: AI music detection, AIGM, music deepfake detection, Deepfake music
 With the rise of generative AI technology, anyone can now easily create and deploy AI-generated music, which has heightened the need for technical solutions to address copyright and ownership issues. While existing works have largely focused on short-audio, the challenge of full-audio detection, which requires modeling long-term structure and context, remains insufficiently explored. To address this, we propose an improved version of the Segment Transformer, termed Fusion Segment Transformer. As in our previous work, we extract content embeddings from short music segments using diverse feature extractors. Furthermore, we enhance the architecture for full-audio AI-generated music detection by introducing a Gated Fusion Layer that effectively integrates content and structural information, enabling the capture of long-term context. Experiments on the SONICS and AIME datasets show that our approach consistently outperforms the previous model and recent baselines, achieving state-of-the-art results in full-audio segment detection. 
 
 ## 📖 Contents
-- [🎵 Fusion Segment Transformer: Bi-directional Attention Guided Fusion Network for AI-Generated Music Detection](#-fusion-segment-transformer-bi-directional-attention-guided-fusion-network-for-ai-generated-music-detection)
-  - [Abstract](#abstract)
-  - [📖 Contents](#-contents)
   - [Installation](#installation)
   - [Requirements](#requirements)
   - [Download Checkpoints and Datasets](#download-checkpoints-and-datasets)
@@ -38,6 +35,14 @@ With the rise of generative AI technology, anyone can now easily create and depl
 
 
 ## Installation
+
+This repository can be installed simply by cloning the GitHub repository and installing the required dependencies.
+
+```bash
+git clone https://github.com/Mippia/FST-AI-music-detection.git
+cd FST-AI-music-detection
+```
+
 
 ## Requirements
 To set up their environment, please run:
