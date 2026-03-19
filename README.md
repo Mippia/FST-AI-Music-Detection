@@ -1,8 +1,8 @@
 <div align="center">
 
   <img width="300" alt="MIPPIA Logo" src="https://github.com/user-attachments/assets/bc77c131-f5ee-449d-a438-60838917906a" />
-  
-  <br><br> <h1>🎵 AI-Generated Music Detection</h1>
+
+  <br> <h1>🎵 AI-Generated Music Detection</h1>
 
   <h3>Fusion Segment Transformer: Bi-Directional Attention Guided Fusion Network for AI-generated Music Detection</h3>
 
