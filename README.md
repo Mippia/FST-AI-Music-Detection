@@ -1,5 +1,5 @@
 <div align="center">
-# AI-Generated Music Detection 
+# AI-Generated Music Detection </b>
 ## FUSION SEGMENT TRANSFORMER: BI-DIRECTIONAL ATTENTION GUIDED FUSION NETWORK FOR AI GENERATED MUSIC DETECTION
 
 <p>
