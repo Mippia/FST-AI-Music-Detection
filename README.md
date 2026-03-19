@@ -5,7 +5,7 @@
   <br>
 
   <h1>🎵 AI-Generated Music Detection</h1>
-  <h3>Fusion Segment Transformer: Bi-Directional Attention Guided Fusion Network for AI-generated Music Detection</h3>
+  <h3>Fusion Segment Transformer: Bi-Directional Attention Guided Fusion Network for <br> AI-generated Music Detection</h3>
 
   <br>
 
