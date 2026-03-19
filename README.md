@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎵 AI-Generated Music Detection
-## FUSION SEGMENT TRANSFORMER: BI-DIRECTIONAL ATTENTION GUIDED FUSION NETWORK FOR AI GENERATED MUSIC DETECTION
+## Fusion Segment Transformer: Bi-Directional Attention Guided Fusion Network for AI-generated Music Detection 
 
 <p align="center">
   <b>Yumin Kim*</b> • <b>Seonghyeon Go*</b>
