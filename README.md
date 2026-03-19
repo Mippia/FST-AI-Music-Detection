@@ -1,5 +1,5 @@
 <div align="center">
-<img width="759" height="251" alt="Image" src="https://github.com/user-attachments/assets/bc77c131-f5ee-449d-a438-60838917906a" />
+<img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/bc77c131-f5ee-449d-a438-60838917906a" /></b>
 # 🎵 AI-Generated Music Detection
 ## Fusion Segment Transformer: Bi-Directional Attention Guided Fusion Network for AI-generated Music Detection 
 
