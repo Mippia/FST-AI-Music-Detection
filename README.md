@@ -2,26 +2,27 @@
 
   <img width="300" alt="MIPPIA Logo" src="https://github.com/user-attachments/assets/bc77c131-f5ee-449d-a438-60838917906a" />
 
-  <br> <h1>🎵 AI-Generated Music Detection</h1>
+  <br>
 
+  <h1>🎵 AI-Generated Music Detection</h1>
   <h3>Fusion Segment Transformer: Bi-Directional Attention Guided Fusion Network for AI-generated Music Detection</h3>
 
+  <br>
+
+  <p>
+    <b>Yumin Kim*</b> • <b>Seonghyeon Go*</b>
+  </p>
+  <p>
+    <b>MIPPIA Inc.</b>
+  </p>
+
+  <br>
+
+  [![arxiv](https://img.shields.io/badge/arxiv-2601.13647-green)](https://arxiv.org/abs/2601.13647)
+  [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://mippia.github.io/icassp-fst/)
+  [![Demo Page](https://img.shields.io/badge/Demo-Page-red)](https://huggingface.co/spaces/mippia/AI-Music-Detection-FST)
+
 </div>
-
-<p align="center">
-  <b>Yumin Kim*</b> • <b>Seonghyeon Go*</b>
-</p>
-
-<p align="center">
-  <b>MIPPIA Inc.</b>
-</p>
-<br>
-[![arxiv](https://img.shields.io/badge/arxiv-2601.13647-green)]([https://mippia.github.io/icassp-fst/](https://arxiv.org/pdf/2601.13647))
-[![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://mippia.github.io/icassp-fst/)
-[![Demo Page](https://img.shields.io/badge/Demo-Page-red)](https://huggingface.co/spaces/mippia/AI-Music-Detection-FST)
-
-</div>
-
 
 <img width="2243" height="651" alt="Image" src="https://github.com/user-attachments/assets/9d08ef5f-cffc-4310-9537-de9e5a06600e" />
 
