@@ -15,8 +15,8 @@
 <p align="center">
   <b>MIPPIA Inc.</b>
 </p>
-
-[![arxiv](https://img.shields.io/badge/arxiv-green)]([https://mippia.github.io/icassp-fst/](https://arxiv.org/pdf/2601.13647))
+<br>
+[![arxiv](https://img.shields.io/badge/arxiv-2601.13647-green)]([https://mippia.github.io/icassp-fst/](https://arxiv.org/pdf/2601.13647))
 [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://mippia.github.io/icassp-fst/)
 [![Demo Page](https://img.shields.io/badge/Demo-Page-red)](https://huggingface.co/spaces/mippia/AI-Music-Detection-FST)
 
