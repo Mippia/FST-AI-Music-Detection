@@ -7,6 +7,7 @@
   <h3>Fusion Segment Transformer: Bi-Directional Attention Guided Fusion Network for AI-generated Music Detection</h3>
 
 </div>
+
 <p align="center">
   <b>Yumin Kim*</b> • <b>Seonghyeon Go*</b>
 </p>
@@ -15,6 +16,7 @@
   <b>MIPPIA Inc.</b>
 </p>
 
+[![arxiv](https://img.shields.io/badge/arxiv-green)]([https://mippia.github.io/icassp-fst/](https://arxiv.org/pdf/2601.13647))
 [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://mippia.github.io/icassp-fst/)
 [![Demo Page](https://img.shields.io/badge/Demo-Page-red)](https://huggingface.co/spaces/mippia/AI-Music-Detection-FST)
 
