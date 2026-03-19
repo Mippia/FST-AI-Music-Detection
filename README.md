@@ -1,12 +1,15 @@
 <div align="center">
-# AI-Generated Music Detection </b>
+
+# 🎵 AI-Generated Music Detection
 ## FUSION SEGMENT TRANSFORMER: BI-DIRECTIONAL ATTENTION GUIDED FUSION NETWORK FOR AI GENERATED MUSIC DETECTION
 
-<p>
-  <b>Yumin Kim*</b> · <b>Seonghyeon Go*</b>
+<p align="center">
+  <b>Yumin Kim*</b> • <b>Seonghyeon Go*</b>
 </p>
 
-<p>MIPPIA Inc.</p>
+<p align="center">
+  <b>MIPPIA Inc.</b>
+</p>
 
 [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://mippia.github.io/icassp-fst/)
 [![Demo Page](https://img.shields.io/badge/Demo-Page-red)](https://huggingface.co/spaces/mippia/AI-Music-Detection-FST)
