@@ -21,7 +21,7 @@
   [![arxiv](https://img.shields.io/badge/arxiv-2601.13647-green)](https://arxiv.org/abs/2601.13647)
   [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://mippia.github.io/icassp-fst/)
   [![Demo Page](https://img.shields.io/badge/Demo-Page-red)](https://huggingface.co/spaces/mippia/AI-Music-Detection-FST)
-
+  [![MIPPIA Page](https://img.shields.io/badge/MIPPIA-Page-pink)](https://mippia.com/ko/howtouse/test)
 </div>
 
 <img width="2243" height="651" alt="Image" src="https://github.com/user-attachments/assets/9d08ef5f-cffc-4310-9537-de9e5a06600e" />
